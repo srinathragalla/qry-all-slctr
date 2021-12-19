@@ -1,0 +1,1 @@
+# qry-all-slctr
